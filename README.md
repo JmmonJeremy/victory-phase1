@@ -1,5 +1,5 @@
 # Render Deployment: <a href="https://cms-10a-phase10.onrender.com/documents" target="_blank">Wk11 10th Assignment Phase10</a>
-# Angular Contacts App: <a href="https://jmmonjeremy.github.io/cms-10a-phase10/" target="_blank">Wk11 10th Assignment Phase10</a>
+# Angular Contacts Application Final Assignment
 Repository for my BYUI WDD 430 Web Full-Stack Development class
 # ProjectTemplate
 
