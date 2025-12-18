@@ -3,7 +3,7 @@
   "version": 1,
   "newProjectRoot": "projects",
   "projects": {
-    "final-project": {
+    "victory-phase1": {
       "projectType": "application",
       "schematics": {
         "@schematics/angular:component": {
@@ -18,7 +18,7 @@
       },
       "root": "",
       "sourceRoot": "src",
-      "prefix": "cms",
+      "prefix": "app",
       "architect": {
         "build": {
           "builder": "@angular-devkit/build-angular:browser",
@@ -76,10 +76,10 @@
           "builder": "@angular/build:dev-server",
           "configurations": {
             "production": {
-              "buildTarget": "final-project:build:production"
+              "buildTarget": "victory-phase1:build:production"
             },
             "development": {
-              "buildTarget": "final-project:build:development"
+              "buildTarget": "victory-phase1:build:development"
             }
           },
           "defaultConfiguration": "development"
