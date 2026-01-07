@@ -16,7 +16,7 @@ const contactRoutes = require('./server/routes/contacts');
 const documentsRoutes = require('./server/routes/documents'); 
 const victoryRoutes = require('./server/routes/victories'); // Victory Planner Code 
 // Add a variable for the database connection URI (Uniform Resource Identifier) 
-const mongoURI = process.env.MONGODB_URI || 'mongodb://localhost:27017/final-project'; // Victory Planner Code
+const mongoURI = process.env.MONGODB_URI || 'mongodb://localhost:27017/victory-phase1'; // Victory Planner Code
 
 // establish a connection to the mongo database
 mongoose.connect(mongoURI)
