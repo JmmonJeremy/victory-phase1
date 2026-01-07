@@ -1,6 +1,6 @@
 # Render Deployment: <a href="https://victory-phase1.onrender.com/documents" target="_blank">Wk12-14 11th Assignment Final Project</a>
 # Angular Contacts Application Final Assignment
-Repository for my BYUI WDD 430 Web Full-Stack Development class
+(DO NOT USE) Repository for my BYUI WDD 430 Web Full-Stack Development class Final Project (Parts may be useful to draw ideas from)
 # ProjectTemplate
 
 This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 20.3.2.
